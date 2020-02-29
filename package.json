@@ -13,7 +13,8 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "x-face-detector": "git+https://github.com/kherrick/x-face-detector.git#semver:^1.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
