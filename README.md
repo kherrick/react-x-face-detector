@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [react-x-face-detector](https://kherrick.github.io/react-x-face-detector/)
+
+## About
+
+An example built with React and the Web Component [x-face-detector](https://github.com/kherrick/x-face-detector).
+
+## Development
+
+```bash
+git clone https://github.com/kherrick/react-x-face-detector.git \
+  && cd react-x-face-detector \
+  && npm i \
+  && npm start
+```
 
 ## Available Scripts
 
